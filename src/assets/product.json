@@ -1,0 +1,79 @@
+[
+    {
+        "id":89, "name" :"Dosa", "amnt":"199", "shop":"Muniyandi vilas",
+        "ftype":"Veg", "pic":"https://vismaifood.com/storage/app/uploads/public/8b4/19e/427/thumb__1200_0_0_0_auto.jpg",
+        "latest":"No"},
+        {
+            "id":79, "name" :"Idli", "amnt":"149", "shop":"Muniyandi vilas",
+        "ftype":"Veg", "pic":"https://t3.ftcdn.net/jpg/03/62/02/26/360_F_362022640_fZ6UM0JycJlFDdBiR1pYlNddKfdGvYwR.jpg",
+        "latest":"No"
+        },
+        {
+            "id":479, "name" :"Parrota", "amnt":"299", "shop":"Sampporna",
+        "ftype":"Veg and Non-Veg", "pic":"https://farm9.staticflickr.com/8586/16023214373_90552b64f6_o.jpg",
+        "latest":"No"
+        },
+        {
+            "id":279, "name" :"Fried rice", "amnt":"399", "shop":"Muniyandi vilas",
+        "ftype":"Veg and Non-Veg" , "pic":"https://www.averiecooks.com/wp-content/uploads/2022/05/beeffriedrice-13-500x500.jpg",
+        "latest":"No"
+        },
+        {
+            "id":59, "name" :"Noddles", "amnt":"399", "shop":"Muniyandi vilas",
+        "ftype":"Veg and Non-Veg", "pic":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQujx5jb6WvhHb7XcW46Rmel1lts4KHWkuBfw&s",
+        "latest":"No"
+        },
+        {
+            "id":39, "name" :"Chicken Fried-rice", "amnt":"499", "shop":"Muniyandi vilas",
+        "ftype":"Non-Veg", "pic":"https://www.averiecooks.com/wp-content/uploads/2022/05/beeffriedrice-13-500x500.jpg",
+        "latest":"No"
+        },
+        {
+            "id":76, "name" :"Chicken Noddles", "amnt":"499", "shop":"Muniyandi vilas",
+        "ftype":"Non-Veg", "pic":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQujx5jb6WvhHb7XcW46Rmel1lts4KHWkuBfw&s",
+        "latest":"No"
+        },
+        {
+            "id":74, "name" :"Chicken-Briyani", "amnt":"599", "shop":"Muniyandi vilas",
+        "ftype":"Non-Veg", "pic":"https://www.cubesnjuliennes.com/wp-content/uploads/2020/07/Chicken-Biryani-Recipe.jpg",
+        "latest":"No"
+        },
+        {
+            "id":29, "name" :"Mutton-Briyani", "amnt":"699", "shop":"Muniyandi vilas",
+        "ftype":"Non-Veg", "pic":"https://www.cubesnjuliennes.com/wp-content/uploads/2021/03/Best-Mutton-Biryani-Recipe.jpg",
+        "latest":"No"
+        },
+        {
+            "id":999, "name" :"Chicken-65 Briyani", "amnt":"649", "shop":"Muniyandi vilas",
+        "ftype":"Non-Veg", "pic":"https://media-cdn.tripadvisor.com/media/photo-s/0f/ac/7c/48/poulet-65-biryani-chicken.jpg",
+        "latest":"No"
+        },
+        {
+            "id":58, "name" :"Prawn-Briyani", "amnt":"599", "shop":"Muniyandi vilas",
+        "ftype":" Non-Veg", "pic":"https://www.cubesnjuliennes.com/wp-content/uploads/2020/12/Prawn-Biryani-Recipe.jpg",
+        "latest":"No"
+        },
+        {
+            "id":129, "name" :"Panner-Briyani", "amnt":"299", "shop":"Muniyandi vilas",
+        "ftype":"Veg", "pic":"https://i.ytimg.com/vi/Pbc56TniI78/maxresdefault.jpg",
+        "latest":"No"
+        },
+        {
+            "id":798, "name" :"Mushroom-Briyani", "amnt":"349", "shop":"Muniyandi vilas",
+        "ftype":"Veg", "pic":"https://www.indianveggiedelight.com/wp-content/uploads/2019/09/mushroom-biryani-featured.jpg",
+        "latest":"No"
+        },
+        {
+            "id":45, "name" :"Butter-Chicken", "amnt":"299", "shop":"Muniyandi vilas",
+        "ftype":"Non-Veg", "pic":"https://www.indianhealthyrecipes.com/wp-content/uploads/2023/04/butter-chicken-recipe.jpg",
+        "latest":"No"
+        },
+        {
+            "id":12, "name" :"chiken-lollipop", "amnt":"499", "shop":"Muniyandi vilas",
+        "ftype":"Non-Veg", "pic":"https://lanesbbq.com/cdn/shop/articles/pow-pow-chicken-lollipops.jpg?v=1674056829&width=1500",
+        "latest":"No"
+        }
+        
+
+    
+]
